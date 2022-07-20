@@ -1,15 +1,18 @@
-# Jogos-Classicos-JavaScript
+# classic-games-JavaScript
 
 Created two classic games with JavaScript utilizing p5.js editor from Alura courses. 
 
 <div>
-📁 Acesso ao projeto
+📁 Access project
 
-**Você pode acessar o projeto final por aqui: Pong Clássico - https://editor.p5js.org/PhanthroX/full/bELOKyqqE / 
-                                     Atravessar a Estrada - https://editor.p5js.org/PhanthroX/full/KMQcghQbW**
+**You can acess the game project from this links: Classic Pong - https://editor.p5js.org/PhanthroX/full/bELOKyqqE / 
+                                     Cross the Road - https://editor.p5js.org/PhanthroX/full/KMQcghQbW**
 
-## 🛠️ Abrir e rodar o projeto
+<h1>🛠️ Open and Play </h1>
 
-**O Pong pode ser jogado em dois jogadores usando as teclas "W", para cima, "S", para baixo. Assim como as teclas para cima e para baixo.**
-**No jogo "Atravessar a Estrada" você move o personagem com o "W" e o "S", seguindo a mesma proposta do pong, para cima e para baixo.**
+
+<h3>You can play "Pong" with two players using the keys, "W", up, "S", down.</h3>
+
+<h3>To play "Cross the Road" you can move the character with "W" and "S" keys just like in "Pong".</h3>
+
 </div>
